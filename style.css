@@ -1,0 +1,38 @@
+img {
+    width: 450px;
+    border-radius: 35px;
+    margin-top: 50px
+}
+
+body {
+    font-family: Arial black;
+    background: #b1a8a8
+}
+
+p {
+    width: 450px;
+}
+
+a {
+    background: #1be862;
+    color: #324467;
+    padding: 8px 10px;
+    border-radius: 15px;
+    transition:0.3s;
+    text-decoration:none
+}
+
+
+a:hover {
+    background: #000000;
+        border-radius: 35px
+}
+
+
+.wrapper {
+    background-color: #ffffff;
+        width: 1000px;
+    border-radius: 35px;
+    padding: 20px 60px;
+    margin: 0 auto;
+}
